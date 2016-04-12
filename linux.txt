@@ -1,0 +1,72 @@
+[root@sandbox ~]# history
+    1  ambari-server start
+    2  ambari-agent start
+    3  ifconfig
+    4  init 0
+    5  ambari-server start
+    6  ambari-agent start
+    7  init 0
+    8  ambari-server start
+    9  ambari-agent start
+   10  tail -f /var/lib/ambari-agent/data/structured-out-status.json 
+   11  ambari-agent stop
+   12  rm -f /var/lib/ambari-agent/data/structured-out-status.json 
+   13  ambari-agent start
+   14  tail -f /var/lib/ambari-agent/data/structured-out-status.json 
+   15  ambari-agent stop
+   16  rm -f /var/lib/ambari-agent/data/structured-out-status.json 
+   17  init 0
+   18  ls /etc/sysconfig/network-scripts/
+   19  ifconfig
+   20  init 0
+   21  init 6
+   22  init 0
+   23  ls
+   24  cd /
+   25  find -name hive-site.xml
+   26  ls
+   27  yum install mc
+   28  restart
+   29  reboot
+   30  startx
+   31  yum -y groupinstall "Desktop" "Desktop Platform" "X Window System" "Fonts"
+   32  yum -y groupinstall "Graphical Administration Tools"
+   33  yum -y groupinstall "Internet Browser"
+   34  yum -y groupinstall "General Purpose Desktop"
+   35  # yum -y groupinstall "Legacy X Window System compatibility"
+   36  reboot
+   37  su -
+   38  yum install vino
+   39  javac
+   40  javac -version
+   41  sudo add-apt-repository ppa:notepadqq-team/notepadqq
+   42  startx
+   43  hadoop fs -chmod 777 /user/
+   44  sudo bash
+   45  hadoop fs -chmod 777 /user/
+   46  sudo -su hadoop fs -chmod 777 /user/
+   47  sudo -su root fs -chmod 777 /user/
+   48  sudo -su root fs -chmod 777 /user/
+   49  sudo -su root fs -chmod 777 /user/
+   50  cd /opt/data-integration/
+   51  ksh spoon.sh
+   52  sh spoon.sh
+   53  sudo add-apt-repository ppa:notepadqq-team/notepadqq
+   54  sh spoon.sh
+   55  cd ..
+   56  ls
+   57  cd data-integration/
+   58  ls
+   59  sh spoon.sh
+   60  cd /
+   61  cd /opt/data-integration/
+   62  ls
+   63  ./spoon.sh
+   64  spoon.sh
+   65  chmod +x spoon.sh
+   66  hadoop fs -mkdir /user/cheran
+   67  hadoop fs -chmod 777  /user/cloudera
+   68  hadoop fs -chmod 777  /user/cheran
+   69  cd /opt/data-integration/
+   70  sh spoon.sh
+   71  history
